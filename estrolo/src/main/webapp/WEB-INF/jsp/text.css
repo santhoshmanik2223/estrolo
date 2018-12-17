@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+#header {
+    width: 100%;
+    height: 100px;
+    background-color: #DDDDDD;
+}
+
+#innerHeader {
+    margin: 0 auto;
+    width: 75%;
+    height: 100px;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+#navList {
+    margin-left: 50px;
+    width: 100%;
+    height: 100px;
+    background-color: red;
+}
+
+#navList li {
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+}
